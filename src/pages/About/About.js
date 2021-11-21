@@ -9,7 +9,7 @@ const About = () => {
         MediCare is a world leading cancer research, education and treatment
         centre and New York's only public health service solely dedicated to
         caring for people affected by cancer. We have over 3,200 staff,
-        including more than 600 laboratory and clinical researchers, all focused
+        including more than 650 laboratory and clinical researchers, all focused
         on providing better treatments, better care and potential cures for
         cancer.
       </p>
